@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ebac0a9c675214e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5193047dac12de2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2b13dbad32348f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lord-Mayor Jilia Bainilus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1098e5fd5dd17b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Kintargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24b49cdb30c6639e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9e1500e55b116f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94da1fedc4d2b56d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1faa1fc91fcd1659",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0fda7fcb14ae071",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "932421dbf2a2aced",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce22c1bd2e226f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d415e5ba5c868ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Kintargo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "186fbebcbc801fa4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Kintargo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b1d1c8343c92a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14cc782bd3a90ff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Kintargo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1098e5fd5dd17b75",
+  "lastOpenFiles": [
+    "NPCs/Lord-Mayor Jilia Bainilus.md",
+    "Locations/Kintargo.md"
+  ]
+}
